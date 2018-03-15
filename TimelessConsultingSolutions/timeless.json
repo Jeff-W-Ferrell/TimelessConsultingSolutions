@@ -1,0 +1,110 @@
+[
+	{
+		"ProfilePic": "/Karl_Sweden.jpg",
+		"EmployeeID": "132535",
+		"FirstName": "Jameson",
+		"LastName": "Wallace",
+		"Title": "CEO and Founder",
+		"AboutMe": "From humble roots as a peat moss digger and bard, I refined the process of making and preserving Weisswurst down to an science while elevating it to an art form and celebrating its history as the most delicious breakfast staple.",
+		"Quote": "A little dirt never hurt."
+	},
+	{
+		"ProfilePic": "/reader.jpg",
+		"EmployeeID": "243546",
+		"FirstName": "Charlotte",
+		"LastName": "Bartlett",
+		"Title": "COO and Founder",
+		"AboutMe": "Amateur metallurgist, doctorate mathematician, professional pearl diver, luthier, ship builder, and ferret breeder; try to find something that I'm not better at than you are. I keep this place running by golly.",					
+		"Quote": "If your not behind me, you're in my way."
+	},
+	{
+		"ProfilePic": "/draco_potter.jpg",
+		"EmployeeID": "354657",
+		"FirstName": "Clint",
+		"LastName": "Albertson",
+		"Title": "CFO",
+		"AboutMe": "I made my first $1000 by the time I was 20 years old, and have doubled it since. I spent all my time talking about money and counting it, so they gave me the job. Note that I don't know the safe combination.",					
+		"Quote": "That feels like about $4,249 to me."
+	},
+	{
+		"ProfilePic": "/tracy_dick.jpg",
+		"EmployeeID": "465768",
+		"FirstName": "Cormac",
+		"LastName": "McGollem",
+		"Title": "Muscle",
+		"AboutMe": "I once fought my way out of an auditorium prize fight, after taking a dive for a cool $50. I was the only one without a black eye or a broken nose. I'm technically the door man, but I keep more folks out than I let in.",					
+		"Quote": "That's the sound of your tibia and fibia breaking."
+	},
+	{
+		"ProfilePic": "/bonnie_bonnet.jpg",
+		"EmployeeID": "576879",
+		"FirstName": "Bonnie",
+		"LastName": "McCLoud",
+		"Title": "VP of Technology",
+		"AboutMe": "I've been working on building a giant clock like mechanism that can predict the tides. It's taken me years, but I'm almost done, and I think it will change the world. It looks really complicated. I sure hope it works.",						
+		"Quote": ""
+	},
+	{
+		"ProfilePic": "/cowpoke.jpg",
+		"EmployeeID": "687980",
+		"FirstName": "Owen",
+		"LastName": "Herald",
+		"Title": "Logistics and Supply Chain Manager",
+		"AboutMe": "The pony express was pretty much my idea, as was the covered wagon, the saddlebag, and the bicycle. Oh, I nearly forgot that I came up with the idea for steam engine long before it was popularized by today's engineers.",
+		"Quote": "I'm probably the most modest person you'll ever meet."			
+	},
+	{
+		"ProfilePic": "/gustaf_dalen.jpg",
+		"EmployeeID": "798091",
+		"FirstName": "Timothy",
+		"LastName": "Reynolds",
+		"Title": "Public Relations",
+		"AboutMe": "I love to garner publicity for our rapidly growing enterprise, and I have a secret weapon; I buy people lunch. It sounds silly, I know, but you'd be surprised how supportive people can be after I treat them to a free lunch.",
+		"Quote": "My future is so bright that I might need to see someone about eye protection."
+	},
+	{
+		"ProfilePic": "/stool_pigeon.jpg",
+		"EmployeeID": "253647",
+		"FirstName": "Arnold",
+		"LastName": "Lutz",
+		"Title": "Warehouse Foreman",
+		"AboutMe": "It used to be really confusing back here with so many boxes that all looked so similar, and so many rows of so many shelves. Now that we write things down, our efficiency has improved dramatically.",
+		"Quote": "No, I won't stand. Thank you."
+	},
+	{
+		"ProfilePic": "/lewis_payne.jpg",
+		"EmployeeID": "586970",
+		"FirstName": "Lewis",
+		"LastName": "Payne",
+		"Title": "Creative Director",
+		"AboutMe": "I specialize in reaching the emerging market of today's youth. I am an especially effective sidewalk barker, and after introducing a megaphone to my routine, order traffic has increased by 15%!",
+		"Quote": "I'm young and I plan on staying that way."						
+	},
+	{
+		"ProfilePic": "/crown.jpeg",
+		"EmployeeID": "142536",
+		"FirstName": "Meredith",
+		"LastName": "Abernathy",
+		"Title": "Creative Director",
+		"AboutMe": "I have more ideas than will fit in my head. That's why I am looking up in my profile pic. The ideas have started to overflow and can float away if I don't keep a close eye out, or two.",
+		"Quote": "Do we really need two creative directors?"						
+	},
+	{
+		"ProfilePic": "/picasso.jpg",
+		"EmployeeID": "263748",
+		"FirstName": "Pablo",
+		"LastName": "Picasso",
+		"Title": "Graphic Designer",
+		"AboutMe": "I see the world differently than those around me, and my lens has become one of my greatest assets as a graphic designer. I feel like I could do great things if I really put myself out there.",
+		"Quote": "What do you want me to paint again? Would this work instead?"						
+	},
+	{
+		"ProfilePic": "/dour_power.jpg",
+		"EmployeeID": "374849",
+		"FirstName": "Zoraster",
+		"LastName": "Tomlinson",
+		"Title": "Understudy",
+		"AboutMe": "As a professional understudy, I have to be prepared to successfully fulfill every role in the company at a moments notice. Flu season was especially bad in ought 18, and I worked my way up to Senior roles, temporarily.",
+		"Quote": "It's picture day today? Darn it all."	
+	}
+]

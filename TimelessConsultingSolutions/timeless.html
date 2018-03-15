@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+
+	<!-- Required meta tags -->
+	<title>Timeless Consulting Solutions</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	<!-- Bootstrap CSS -->
+	
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"> </script>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css"/>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="./eotc.css"/>	
+	<script type="text/javascript" src="eotc.json"></script>
+	
+	</head>
+	
+	<body>
+		<div class="container">
+			<div class="table responsive">
+				<h1>Timeless Consulting Solutions - Team</h1>
+				<br />
+				<table class="table table-bordered table-striped" id="employee_table">
+					<tr>
+						<th>Profile Picture</th>
+						<th>Employee ID</th>
+						<th>First Name</th>
+						<th>Last Name</th>
+						<th>Title</th>
+						<th>About Me</th>
+						<th>Quote</th>
+					</tr>
+				</table>
+			</div>
+		</div>
+	
+	<script>
+	$(document).ready(function(){
+		$.getJSON('employees.json', function(data){
+			var employee_data = '';
+			$.each(data, function(key, value){
+				employee_data += '<tr>';
+				employee_data += '<td>' + value.ProfilePic + '</td>';
+				employee_data += '<td>' + value.EmployeeID + '</td>';
+				employee_data += '<td>' + value.FirstName + '</td>';
+				employee_data += '<td>' + value.LastName + '</td>';
+				employee_data += '<td>' + value.Title + '</td>';
+				employee_data += '<td>' + value.AboutMe + '</td>';
+				employee_data += '<td>' + value.ProfilePic + '</td>';
+				employee_data += '<td>' + value.Quote + '</td>';
+				employee_data += '</tr>';
+			});
+			$('#employee_table').append(employee_data);
+		});
+	});
+	</script>
+
+	</body>
+</html>	
